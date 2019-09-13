@@ -1,2 +1,10 @@
 # EDEM-clase-git
-Repositorio para la clase de Git
+#`s Titulo 2
+
+- opcion 1
+- opcion 2
+
+`esto esta resaltado`
+
+
+
